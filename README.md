@@ -1,0 +1,2 @@
+# hersyy
+My discord bot.
